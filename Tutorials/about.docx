@@ -1,0 +1,3 @@
+Tutorial1 == The server.js and math.js explains modules and how the console is on the editor's terminal
+Tutorial2 == Reading a file, writing into it, Appening the file and renaming it in different methods. The normal way in the file file and using async await method in the fileOperations file. The readstream.js explains how to read heavy data. dir.js explains how to create directories.
+Tutorial3 == Using npm and installing dependencies
